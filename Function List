@@ -1,16 +1,39 @@
-Manager:
+This is in a way a wish list of things the program should be able to accomplish when complete.  As a Manager I should
+be able to do certain things and as an Employee I should be able to do certain things.  This is a list of those
+things.  This list is by no means complete.
+
+As a Manager I should be able to:
 * See highlighted time off requests on calendar
 * intuitively reject/accept time off requests
 * see individual employees remaining time and status
 * edit remaining time and status for irregularities
+* View a list of employees who have requested off for a given date / range of dates.
+* Determine the maximum number of employees that are allowed to be off at any given time
+* Assign days off to an Employee to account for Training, CTE, Conferences, FML, STD/LTD, etc
+* Add/remove employees from my roster
+* Notify my employees if their requests for time off were approved / disapproved
+* Cancel approved days off for any Employee
+* Allow selected Employees permission to approve / deny days off for others.
 
-Employee:
+As an Employee I should be able to:
 * show my remaining sick and vacation time
 * show my estimated sick/vacation time as I'm requesting time off
 * mark days to request off
-*  allow specifying hours to request off
+* allow specifying hours to request off (request partial day off?)
 * It would be cool if you could participate in a shift trade, or even bid / put up shifts to bid for others
 * Message manager with special requests (useful for days that should be avoided on the schedule: Classes, 
+* See how many other people are off on a given date / range of dates to determine if I will be allowed to take off
+* Cancel days off that I have requested (and had approved)
+
 
 Nate's Thoughts:
-* I would love for Becca to be able to work a more permanent schedule, but still with some flexibility. I've heard from several of her coworkers that they would like the same. Like, "I'm willing to work every Sat, but I don't want to work Sun". Or "if someone doesn't want Mon I'll take it every week."
+* I would love for Becca to be able to work a more permanent schedule, but still with some flexibility. I've heard 
+from several of her coworkers that they would like the same. Like, "I'm willing to work every Sat, but I don't want
+to work Sun". Or "if someone doesn't want Mon I'll take it every week."
+
+Damon's $0.02
+- I think this is an issue that most nurses face.  I know that many of the hospitals my wife has worked at allow the
+nurses to do the scheduling and not the manager.  Of course that is based on very limited experience since she has worked
+at only a small fraction of all the hosptials there are but I am wondering if maybe scheduling itself goes beyond the
+scope of what we are trying to do here (which might also apply to shift trades although the might be something worth
+looking into adding to this).
