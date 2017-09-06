@@ -14,6 +14,7 @@ As a Manager I should be able to:
 * Notify my employees if their requests for time off were approved / disapproved
 * Cancel approved days off for any Employee
 * Allow selected Employees permission to approve / deny days off for others.
+* Give and Revoke Scheduler permissions to employees
 
 As an Employee I should be able to:
 * show my remaining sick and vacation time
@@ -25,6 +26,8 @@ As an Employee I should be able to:
 * See how many other people are off on a given date / range of dates to determine if I will be allowed to take off
 * Cancel days off that I have requested (and had approved)
 
+As a Scheduler I should be able to:
+* View approved time off for all individuals so I can create a schedule
 
 Nate's Thoughts:
 * I would love for Becca to be able to work a more permanent schedule, but still with some flexibility. I've heard 
